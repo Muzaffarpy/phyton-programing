@@ -1,2 +1,2 @@
-# phyton-programing
+# phyton-programing project
 Mid term project
