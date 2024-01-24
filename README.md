@@ -1,2 +1,2 @@
 # phyton-programing
-Mid trum projact
+Mid term project
